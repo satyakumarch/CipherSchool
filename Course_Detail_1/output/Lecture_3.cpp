@@ -5,6 +5,6 @@ int main(){
     cout<<"vaiable of integer : "<<a<<"\n";
     string s="satya Kumar chaudhary";
     cout<<"The string of variable :"<<s;
-
+    
     return 0;
 }
