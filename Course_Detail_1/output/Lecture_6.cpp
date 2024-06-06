@@ -19,7 +19,7 @@ int main(){
         cout<<"You can fail in exam."<<endl;
     }
     //switch case statement
-    cout<<"Switch case statement";
+    cout<<"Switch case statement"<<endl;
     int a;
     cout<<"Enter the number of week:";
     cin>>a;
