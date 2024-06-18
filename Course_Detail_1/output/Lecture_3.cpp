@@ -7,3 +7,4 @@ int main(){
     cout<<"The string of variable :"<<s;
     
     return 0;
+}
